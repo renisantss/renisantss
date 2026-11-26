@@ -6,8 +6,8 @@
 
 <p>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renisantss/)
-[![Email](https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=Renisantsgames@gmail.com)
-[![Projeto Ao Vivo](https://img.shields.io/badge/Projeto_Ao_Vivo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://catalogo-isabelle.streamlit.app)
+  [![Email](https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=Renisantsgames@gmail.com)
+  [![Projeto Ao Vivo](https://img.shields.io/badge/Projeto_Ao_Vivo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://catalogo-isabelle.streamlit.app)
 </p>
 
 ---
