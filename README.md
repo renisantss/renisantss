@@ -57,6 +57,6 @@ Construo soluções que conectam **desenvolvimento de software** e **tomada de d
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renisantss&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renisantss&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&locale=pt-br&include_all_commits=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renisantss&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&locale=pt-br"/>
 </div>
