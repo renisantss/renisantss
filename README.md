@@ -5,8 +5,8 @@
 </div>
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/renisantss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Renisantsgames@gmail.com"><img src="https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://catalogo-isabelle.streamlit.app"><img src="https://img.shields.io/badge/Projeto_Ao_Vivo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 </p>
 
