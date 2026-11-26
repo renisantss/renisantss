@@ -4,11 +4,9 @@
   <p>Rio de Janeiro, Brasil · Aberto a oportunidades de estágio em Tecnologia e Dados</p>
 </div>
 
-<p>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renisantss/)
-  [![Email](https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=Renisantsgames@gmail.com)
-  [![Projeto Ao Vivo](https://img.shields.io/badge/Projeto_Ao_Vivo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://catalogo-isabelle.streamlit.app)
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renisantss/)
+[![Email](https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=Renisantsgames@gmail.com)
+[![Projeto Ao Vivo](https://img.shields.io/badge/Projeto_Ao_Vivo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://catalogo-isabelle.streamlit.app)
 
 ---
 
@@ -61,18 +59,3 @@ Construo soluções que conectam **desenvolvimento de software** e **tomada de d
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renisantss&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renisantss&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E"/>
 </div>
-
-<!--
-**renisantss/renisantss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
